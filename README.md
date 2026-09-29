@@ -2,7 +2,7 @@
 
 Health Data Science at George Washington University (expected May 2028). I build open tools for measuring biological aging.
 
-**Site:** [aaditya-site-zeta.vercel.app](https://aaditya-site-zeta.vercel.app) · **LinkedIn:** [aaditya-geddam](https://linkedin.com/in/aaditya-geddam)
+**LinkedIn:** [aaditya-geddam](https://linkedin.com/in/aaditya-geddam)
 
 ## Projects
 
